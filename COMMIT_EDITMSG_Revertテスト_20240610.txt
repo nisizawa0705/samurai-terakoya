@@ -1,0 +1,11 @@
+Revert "sampleSec.txt の削除(Revertで編集済み)"
+
+This reverts commit 7fbc019def8f9e9449f6f5ccd72f298e0cfd0a51.
+
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+#
+# On branch main
+# Changes to be committed:
+#	new file:   sampleSec.txt
+#
